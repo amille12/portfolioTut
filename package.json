@@ -1,0 +1,22 @@
+{
+  "name": "portfoliotut",
+  "version": "1.0.0",
+  "description": "Responsive portfolio webpage",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amille12/portfolioTut.git"
+  },
+  "author": "Austin Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amille12/portfolioTut/issues"
+  },
+  "homepage": "https://github.com/amille12/portfolioTut#readme",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
